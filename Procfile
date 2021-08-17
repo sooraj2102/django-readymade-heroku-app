@@ -1,1 +1,1 @@
-web: gunicorn conduit.wsgi --log-fil -
+web: gunicorn conduit.wsgi --log-file -
