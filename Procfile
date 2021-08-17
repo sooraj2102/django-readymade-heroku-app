@@ -1,1 +1,1 @@
-web: gunicorn django-realworld-example-app.wsgi
+web: gunicorn conduit.wsgi
