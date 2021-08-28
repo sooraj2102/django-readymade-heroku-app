@@ -1,5 +1,6 @@
-# ![Django DRF Example App](project-logo.png)
 
+# ![Django DRF Example App](project-logo.png)
+> You can run this app on heroku without any changes.
 > ### Example Django DRF codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/gothinkster/realworld-example-apps) API spec.
 
 <a href="https://thinkster.io/tutorials/django-json-api" target="_blank"><img width="454" src="https://raw.githubusercontent.com/gothinkster/realworld/master/media/learn-btn-hr.png" /></a>
